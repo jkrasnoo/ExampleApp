@@ -1,0 +1,11 @@
+.vagrant/
+vendor/
+config/development.config.php
+data/cache/*
+!data/cache/.gitkeep
+phpunit.xml
+.idea/
+config/*.local.php
+config/autoload/*.local.php
+module/Event/src/InputFilter/
+module/Event/test/
